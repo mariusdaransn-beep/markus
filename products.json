@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": 1,
+    "name": "Lumânare parfumată Vanilie",
+    "price": 40,
+    "description": "Lumânare handmade cu aromă intensă de vanilie.",
+    "image": "vanilie.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lumânare Lavandă",
+    "price": 45,
+    "description": "Lumânare relaxantă cu parfum de lavandă naturală.",
+    "image": "lavanda.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lumânare Trandafir",
+    "price": 50,
+    "description": "Lumânare elegantă cu esență de trandafir.",
+    "image": "trandafir.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lumânare Ciocolată",
+    "price": 55,
+    "description": "Lumânare dulce cu aromă de ciocolată caldă.",
+    "image": "ciocolata.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lumânare Portocală",
+    "price": 42,
+    "description": "Lumânare energizantă cu parfum de portocală proaspătă.",
+    "image": "portocala.jpg"
+  }
+]
