@@ -34,5 +34,12 @@
     "price": 42,
     "description": "Lumânare energizantă cu parfum de portocală proaspătă.",
     "image": "portocala.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lumânare Craciun",
+    "price": 42,
+    "description": "Lumânare de sarbatori .",
+    "image": "portocala.jpg"
   }
 ]
