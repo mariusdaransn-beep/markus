@@ -9,7 +9,7 @@
     {% for p in products %}
     <div class="col-md-4">
         <div class="card mb-4 shadow-sm">
-            <img src="{{ p.image }}" class="card-img-top" alt="{{ p.name }}">
+            <img src="{{ url_for('static', filename='images/' + p.image) }}" class="card-img-top" alt="{{ p.name }}">
             <div class="card-body">
                 <h5 class="card-title">{{ p.name }}</h5>
                 <p class="card-text">{{ p.description }}</p>
